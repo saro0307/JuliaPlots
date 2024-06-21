@@ -106,5 +106,3 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 [Saro](https://github.com/saro0307)
 ```
-
-### License File (LICENSE)
