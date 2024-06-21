@@ -4,7 +4,6 @@ Pkg.add("Plots")
 Pkg.add("GR"); # GR is a popular backend for Plots.jl
 
 #Line Plot
-
 using Plots
 gr()  # Use the GR backend
 
