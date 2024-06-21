@@ -1,7 +1,7 @@
-#Required Libraries
+#Required Packages
 using Pkg
 Pkg.add("Plots")
-Pkg.add("GR"); # GR is a popular backend for Plots.jl
+Pkg.add("GR") # GR is a popular backend for Plots.jl
 
 #Line Plot
 using Plots
